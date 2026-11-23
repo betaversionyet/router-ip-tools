@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://betaversionyet.github.io/router-ip-tools/sitemap.xml
