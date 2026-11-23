@@ -21,6 +21,8 @@ Most calculators process the supplied values in the browser. Tools that need an 
 
 Browse the complete, current directory at **[RouterNAT Network Tools](https://routernat.com/tools/)**.
 
+For a compact, crawlable overview of the primary utilities, open the [RouterNAT network tools documentation site](https://betaversionyet.github.io/router-ip-tools/).
+
 ## Tool groups
 
 ### Public IP, NAT, and port forwarding
